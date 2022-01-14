@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HyperTesto (Enrico, if you prefer)</h1>
 <h3 align="center">A passionate developer from Italy ARM-ed with explosive stuff</h3>
 
-- 🌱 I’m currently learning **Rust, Go**
+- 🌱 I’m currently learning **Rust, Go, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [www.github.com/hypertesto](www.github.com/hypertesto)
 
