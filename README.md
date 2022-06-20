@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ho cambiato distro e sono sopravvissuto per poterlo raccontare](https://www.hypertesto.me/blog/cambio-distro/)
+- [Privacy](https://www.hypertesto.me/page/privacy/)
 - [Il discorso di fine anno](https://www.hypertesto.me/blog/discorso-di-fine-anno/)
 - [Il curlese come lingua franca per gli addetti ai lavori](https://www.hypertesto.me/blog/il-curlese-come-lingua-franca/)
-- [Mozilla Italia Developer Contest](https://www.hypertesto.me/blog/mozilla-italia-developer-contest/)
-- [Open Fiber spiegata a mia nonna](https://www.hypertesto.me/blog/open-fiber-spiegata-a-mia-nonna/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
