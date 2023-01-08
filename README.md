@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hyper Wrapped 2022](https://www.hypertesto.me/blog/hyper-wrapped-2022/)
 - [Un discorso esemplare](https://www.hypertesto.me/blog/un-discorso-esemplare/)
 - [Il discorso di fine anno](https://www.hypertesto.me/blog/il-discorso-di-fine-2022/)
 - [Ho cambiato distro e sono sopravvissuto per poterlo raccontare](https://www.hypertesto.me/blog/cambio-distro/)
-- [Privacy](https://www.hypertesto.me/page/privacy/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
