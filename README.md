@@ -17,8 +17,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Zed, l&#39;editor di testo collaborativo - Podcast [YT]](https://www.hypertesto.me/blog/intervista-zed-antonio-scandurra/)
 - [Spotify Wrapped 2023 e ½](https://www.hypertesto.me/blog/spotify-wrapped-2023-e-mezzo/)
-- [Webmention Test 2](https://www.hypertesto.me/page/webmention-test2/)
-- [Webmention Test](https://www.hypertesto.me/page/webmention-test/)
+- [AAA Editor di testo cercasi](https://www.hypertesto.me/blog/aaa-editor-cercasi/)
+- [Hyper Wrapped 2022](https://www.hypertesto.me/blog/hyper-wrapped-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
