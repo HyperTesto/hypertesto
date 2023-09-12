@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Newline-delimited JSON: an unstandardized standard](https://www.hypertesto.me/en/blog/jsonl-and-ndjson/)
-- [A Hugo shortcode to get my current age](https://www.hypertesto.me/en/blog/a-hugo-shortcode-to-get-my-current-age/)
-- [A simple script to migrate plain markdown files to hugo page bundles](https://www.hypertesto.me/en/blog/a-simple-script-to-migrate-plain-markdown-files-to-hugo-bundles/)
 - [Zed, l&#39;editor di testo collaborativo - Podcast [YT]](https://www.hypertesto.me/blog/intervista-zed-antonio-scandurra/)
 - [Spotify Wrapped 2023 e ½](https://www.hypertesto.me/blog/spotify-wrapped-2023-e-mezzo/)
 - [AAA Editor di testo cercasi](https://www.hypertesto.me/blog/aaa-editor-cercasi/)
+- [Hyper Wrapped 2022](https://www.hypertesto.me/blog/hyper-wrapped-2022/)
+- [Un discorso esemplare](https://www.hypertesto.me/blog/un-discorso-esemplare/)
+- [Il discorso di fine anno](https://www.hypertesto.me/blog/il-discorso-di-fine-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
