@@ -15,8 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Prove di pubblicazione nel fediverso](https://www.hypertesto.me/blog/fedi-test/)
-- [Fediverse publishing test](https://www.hypertesto.me/en/blog/fedi-test/)
+- [Prove di pubblicazione nel fediverso #2](https://www.hypertesto.me/blog/fedi-test-2/)
+- [Fediverse publishing test #2](https://www.hypertesto.me/en/blog/fedi-test-2/)
 - [How to parse dates with optional parts with Java Instant API](https://www.hypertesto.me/en/blog/how-to-parse-partial-dates-in-java/)
 - [Hyper Wrapped 2023](https://www.hypertesto.me/en/blog/hyper-wrapped-2023/)
 - [Newline-delimited JSON: an unstandardized standard](https://www.hypertesto.me/en/blog/jsonl-and-ndjson/)
