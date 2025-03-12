@@ -19,8 +19,8 @@
 - [P100Y of ISO-litude: a Duration&#39;s tale of acceptance](https://www.hypertesto.me/en/blog/2024/11/p100y-of-isolitude/)
 - [Fish, Foot and beyond: a terminal setup that finally smells right 🐟👣](https://www.hypertesto.me/en/blog/2024/11/fish-foot-and-beyond/)
 - [How to generate a video for Threads with ffmpeg](https://www.hypertesto.me/en/blog/2024/08/how-to-generate-a-video-for-threads-with-ffmpeg/)
-- [Fediverse publishing test #2](https://www.hypertesto.me/en/blog/fedi-test-2/)
-- [How to parse dates with optional parts with Java Instant API](https://www.hypertesto.me/en/blog/how-to-parse-partial-dates-in-java/)
+- [Fedi Test 3](https://www.hypertesto.me/blog/fedi-test-3/)
+- [Prove di pubblicazione nel fediverso #2](https://www.hypertesto.me/blog/fedi-test-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
