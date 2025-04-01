@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Msn Return](https://www.hypertesto.me/en/blog/2025/04/msn-return/)
+- [MSN Return](https://www.hypertesto.me/en/blog/2025/04/msn-return/)
 - [From 0 to 30K - The network](https://www.hypertesto.me/en/blog/2024/11/from-0-to-30k-ep1/)
 - [P100Y of ISO-litude: a Duration&#39;s tale of acceptance](https://www.hypertesto.me/en/blog/2024/11/p100y-of-isolitude/)
 - [Fish, Foot and beyond: a terminal setup that finally smells right 🐟👣](https://www.hypertesto.me/en/blog/2024/11/fish-foot-and-beyond/)
