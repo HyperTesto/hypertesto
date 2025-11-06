@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From 0 to 30K - Numbers](https://www.hypertesto.me/en/blog/2025/11/from-0-to-30k-ep2/)
 - [MSN Return](https://www.hypertesto.me/en/blog/2025/04/msn-return/)
 - [From 0 to 30K - The network](https://www.hypertesto.me/en/blog/2024/11/from-0-to-30k-ep1/)
 - [P100Y of ISO-litude: a Duration&#39;s tale of acceptance](https://www.hypertesto.me/en/blog/2024/11/p100y-of-isolitude/)
 - [Fish, Foot and beyond: a terminal setup that finally smells right 🐟👣](https://www.hypertesto.me/en/blog/2024/11/fish-foot-and-beyond/)
 - [How to generate a video for Threads with ffmpeg](https://www.hypertesto.me/en/blog/2024/08/how-to-generate-a-video-for-threads-with-ffmpeg/)
-- [Fedi Test 3](https://www.hypertesto.me/blog/fedi-test-3/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
