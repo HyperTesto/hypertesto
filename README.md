@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [April fool!](https://www.hypertesto.me/en/page/april-fool/)
 - [From black boxes to black holes](https://www.hypertesto.me/en/blog/2026/03/from-black-boxes-to-black-holes/)
 - [Hyper Wrapped 2025](https://www.hypertesto.me/en/blog/2025/12/hyper-wrapped-2025/)
 - [From 0 to 30K - Numbers](https://www.hypertesto.me/en/blog/2025/11/from-0-to-30k-ep2/)
 - [MSN Return](https://www.hypertesto.me/en/blog/2025/04/msn-return/)
 - [From 0 to 30K - The network](https://www.hypertesto.me/en/blog/2024/11/from-0-to-30k-ep1/)
-- [P100Y of ISO-litude: a Duration&#39;s tale of acceptance](https://www.hypertesto.me/en/blog/2024/11/p100y-of-isolitude/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
