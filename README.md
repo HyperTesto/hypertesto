@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Curlese, five years later: curl is still the unversal language of broken integrations](https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later/)
 - [Migrating an ancient SVN repo the painful way &lpar;tunnel vision included&rpar;](https://www.hypertesto.me/en/blog/2026/07/migrating-ancient-svn-repo/)
 - [Adding a custom DeepSeek model in Junie CLI &lpar;No YAML demons required&rpar;](https://www.hypertesto.me/en/blog/2026/07/adding-custom-deepseek-model-junie-cli/)
 - [One login to rule them all: centralized auth for internal tools with Caddy](https://www.hypertesto.me/en/blog/2026/05/one-login-to-rule-them-all/)
 - [Introducing Agentic Somatic Protocol](https://www.hypertesto.me/en/blog/2026/04/introducing-asp-1/)
 - [April fool!](https://www.hypertesto.me/en/page/april-fool/)
-- [From black boxes to black holes](https://www.hypertesto.me/en/blog/2026/03/from-black-boxes-to-black-holes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
