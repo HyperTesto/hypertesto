@@ -15,12 +15,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Fedi Test 3](https://www.hypertesto.me/blog/fedi-test-3/)
-- [Prove di pubblicazione nel fediverso #2](https://www.hypertesto.me/blog/fedi-test-2/)
-- [Zed, l&#39;editor di testo collaborativo - Podcast [YT]](https://www.hypertesto.me/blog/intervista-zed-antonio-scandurra/)
-- [Spotify Wrapped 2023 e ½](https://www.hypertesto.me/blog/spotify-wrapped-2023-e-mezzo/)
-- [AAA Editor di testo cercasi](https://www.hypertesto.me/blog/aaa-editor-cercasi/)
-- [Hyper Wrapped 2022](https://www.hypertesto.me/blog/hyper-wrapped-2022/)
+- [From 30GB of garbage to 3GB: JVM optimization with an AI assistant on a leash](https://www.hypertesto.me/en/blog/2026/08/from-30gb-to-3gb/)
+- [Curlese, five years later: curl is still the universal language of broken integrations](https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later/)
+- [Migrating an ancient SVN repo the painful way &lpar;tunnel vision included&rpar;](https://www.hypertesto.me/en/blog/2026/07/migrating-ancient-svn-repo/)
+- [Adding a custom DeepSeek model in Junie CLI &lpar;No YAML demons required&rpar;](https://www.hypertesto.me/en/blog/2026/07/adding-custom-deepseek-model-junie-cli/)
+- [One login to rule them all: centralized auth for internal tools with Caddy](https://www.hypertesto.me/en/blog/2026/05/one-login-to-rule-them-all/)
+- [Introducing Agentic Somatic Protocol](https://www.hypertesto.me/en/blog/2026/04/introducing-asp-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
